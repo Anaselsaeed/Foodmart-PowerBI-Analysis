@@ -34,7 +34,7 @@ Two years of sales data were appended and integrated into a unified analytical m
 - DAX (Measures & KPIs)
 - SQL (Data Preparation & Optimization)
 - Data Modeling
-- Microsoft Excel (Optional Pre-processing)
+
 
 ---
 
@@ -126,8 +126,7 @@ These insights support data-driven decision-making in retail management.
 ## 📁 Project Files
 
 - Foodmart_Dashboard.pbix → Main Power BI file
-- screenshots/ → Dashboard previews (if available)
-- SQL_Scripts.sql → Backend queries (if applicable)
+- screenshots/ → Dashboard previews 
 
 ---
 
@@ -143,16 +142,22 @@ These insights support data-driven decision-making in retail management.
 ---
 
 ## 📷 Project Preview
+![homepage](https://github.com/user-attachments/assets/e89bacd5-df06-4437-ac0a-334028b6ef65)
 
-(Add screenshots here)
+![sales](https://github.com/user-attachments/assets/2f9ed6ca-617f-4a84-8353-b16dc55612b8)
 
-Example:
+![sales2](https://github.com/user-attachments/assets/f03f9c6f-bb72-47ad-938e-b83c544f104b)
 
+![products](https://github.com/user-attachments/assets/c3d3b402-40be-42bb-aefa-13f2cd6902c6)
+
+![customers](https://github.com/user-attachments/assets/5ed82447-80bd-46a4-9e69-2d2a76a7595b)
 
 
 ---
 
 ## 📬 Contact
 
-LinkedIn: (Your LinkedIn link)  
+LinkedIn: https://www.linkedin.com/in/anas-elsaeed-19b429311?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
+linkedin post:
+https://www.linkedin.com/posts/anas-elsaeed-19b429311_dataanalytics-powerbi-sql-activity-7408923667516284928-rYFn?utm_source=share&utm_medium=member_ios&rcm=ACoAAE9DX8cB6Cddtn2NEpZfxL8OaZnGJvOgSSo
